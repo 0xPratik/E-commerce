@@ -1,0 +1,46 @@
+.btn,
+.jumbotron,
+.nav :hover {
+  border-radius: 0px;
+}
+
+body {
+  background: #dffdff;
+}
+
+/* footer {
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+} */
+
+.menu {
+  background-color: #ffdab9;
+}
+
+.mycard {
+  min-height: 350px;
+  background-color: #08415c;
+}
+
+.mycolor {
+  background-color: #420039;
+  color: #dcccff;
+}
+
+.projectby {
+  color: #420039;
+}
+
+.it {
+  color: #c73e1d;
+}
+
+.home {
+  background-color: #95a3a4;
+}
+
+.text-product {
+  color: #4e5340;
+}
